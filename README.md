@@ -1,1 +1,7 @@
 # Data-Analysis-PowerBI-Desktop-dashboard-
+Welcome to the Awesome Chocolates Power BI Dashboard project! 🍫📊  
+## Project Overview  - Embark on a journey of setting up a robust data model in Power BI for our fictional chocolate company. - Step-by-step guide on importing 2021 sales data, connecting tables, and creating visuals to gain insights.  
+## Part 1: Setting Up the Data Model  - Delve into the intricacies of Power BI. - Load and connect datasets, clean up inconsistencies, and set up a dynamic data model. - Learn the art of creating visuals, exploring interactivity, and employing Power Query for seamless data cleanup. 
+## Part 2: Enhancing Power BI Report  - Explore the power of DAX (Data Analysis Expressions) to create custom measures. - Create measures such as 'Total Boxes' and 'Amount per Box' for deeper insights into sales performance. - Format visuals for a polished report, including font adjustments, conditional formatting with data bars, and interactive slicers.
+## Part 3: Empowering Reports with Visuals and Forecasts  - Add a touch of personality to the sales performance report by incorporating employee pictures. - Learn to customize graphs for a focused view and control interactions between visuals. - Explore trend analysis using line charts, understanding data trends at different levels. - Dive into forecasting and publish your report to the Power BI online workspace for easy sharing and collaboration.
+Data sets is provided
